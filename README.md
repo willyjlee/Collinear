@@ -1,3 +1,3 @@
 # Collinear points algorithm
-* Sort the points by polar angle with the most bottom point
+* Sort all points by polar angle with the most bottom point
 * Scan through each angle to find the collinear points
